@@ -1,4 +1,4 @@
 print("Jomreabsur")
-print("nihau")
+print("nihao")
 print("Bonjour")
 print("Hola")
